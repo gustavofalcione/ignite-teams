@@ -10,7 +10,7 @@ Uma vez que um time é criado, o usuário pode adicionar ou remover pessoas daqu
 
 No geral, o Ignite Teams é um aplicativo útil para gerenciar turmas e times. Com sua interface fácil de usar e suas funcionalidades simples, o aplicativo é uma solução eficaz para qualquer pessoa que precise gerenciar equipes.
 
-[![Video Title](https://vimeo.com/https://youtube.com/shorts/SxJ_-b6Rhhw)](https://vimeo.com/https://youtube.com/shorts/SxJ_-b6Rhhw)
+[![Ignite Teams](https://img.youtube.com/vi/https://youtube.com/shorts/SxJ_-b6Rhhw/0.jpg)](https://www.youtube.com/watch?v=https://youtube.com/shorts/SxJ_-b6Rhhw)
 
 # Tecnologias utilizadas
 
